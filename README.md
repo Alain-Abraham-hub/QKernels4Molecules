@@ -1,8 +1,8 @@
-# QKernels4Molecules 🧬
+# QKernels4Molecules 
 
 A quantum-inspired machine learning framework for molecular analysis and prediction, combining quantum computing concepts with traditional graph theory to enhance molecular property prediction.
 
-## 🎯 Project Overview
+## Project Overview
 
 QKernels4Molecules is an advanced machine learning framework that leverages quantum-inspired algorithms to analyze molecular structures. By combining quantum walk features with classical graph kernels, this project achieves state-of-the-art performance in molecular property prediction tasks.
 
@@ -24,7 +24,7 @@ QKernels4Molecules is an advanced machine learning framework that leverages quan
   - Scikit-learn (machine learning)
   - Matplotlib & Seaborn (visualization)
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Component Overview
 ```
@@ -78,7 +78,7 @@ QKernels4Molecules/
 | PTC_MR    | 59.7%           | 62.8%            | +3.1%       |
 | AIDS      | 98.1%           | 99.2%            | +1.1%       |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Quick Start
 
@@ -115,7 +115,7 @@ Download our pre-trained models for immediate use:
 - [MUTAG Model](https://github.com/Alain-Abraham-hub/QKernels4Molecules/releases/download/v1.0/mutag_final_model.joblib)
 - [NCI1 Model](https://github.com/Alain-Abraham-hub/QKernels4Molecules/releases/download/v1.0/nci1_final_model.joblib)
 
-## 📈 Results and Impact
+## Results and Impact
 
 ### Key Achievements
 
@@ -140,7 +140,7 @@ Download our pre-trained models for immediate use:
 - State-of-the-art results on benchmark datasets
 - Efficient molecular property prediction framework
 
-## 🔄 Future Development
+## Future Development
 
 1. **Planned Features**
    - GPU acceleration for quantum walk computations
@@ -152,11 +152,11 @@ Download our pre-trained models for immediate use:
    - Dynamic feature adaptation
    - Multi-property prediction models
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Citation
+## Citation
 
 If you use this code in your research, please cite:
 
@@ -169,6 +169,6 @@ If you use this code in your research, please cite:
 }
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
