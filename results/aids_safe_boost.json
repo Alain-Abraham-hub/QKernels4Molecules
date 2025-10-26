@@ -1,0 +1,14 @@
+{
+  "dataset": "AIDS",
+  "baseline": 0.998,
+  "final_accuracy": 0.998,
+  "final_accuracy_std": 0.003316624790355403,
+  "final_f1": 0.9968300404471766,
+  "improvement_percent": 0.0,
+  "best_params": {
+    "alpha": 0.6000000000000001,
+    "C": 10.0,
+    "class_weight": null,
+    "multi_kernel_beta": null
+  }
+}

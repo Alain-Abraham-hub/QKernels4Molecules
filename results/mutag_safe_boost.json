@@ -1,0 +1,14 @@
+{
+  "dataset": "MUTAG",
+  "baseline": 0.8616959064327485,
+  "final_accuracy": 0.8780701754385966,
+  "final_accuracy_std": 0.040432369611873804,
+  "final_f1": 0.8656441360571796,
+  "improvement_percent": 1.6374269005848041,
+  "best_params": {
+    "alpha": 0.29000000000000004,
+    "C": 0.5,
+    "class_weight": null,
+    "multi_kernel_beta": null
+  }
+}

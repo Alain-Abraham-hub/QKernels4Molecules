@@ -1,0 +1,14 @@
+{
+  "dataset": "PROTEINS",
+  "baseline": 0.7304134491634491,
+  "final_accuracy": 0.7502413127413129,
+  "final_accuracy_std": 0.03224102386277625,
+  "final_f1": 0.7273434151724479,
+  "improvement_percent": 1.9827863577863813,
+  "best_params": {
+    "alpha": 0.49,
+    "C": 1.0,
+    "class_weight": null,
+    "multi_kernel_beta": null
+  }
+}

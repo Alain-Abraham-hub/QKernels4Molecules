@@ -1,0 +1,14 @@
+{
+  "dataset": "NCI1",
+  "baseline": 0.7401459854014598,
+  "final_accuracy": 0.7416058394160585,
+  "final_accuracy_std": 0.019489035907056727,
+  "final_f1": 0.7406819600882206,
+  "improvement_percent": 0.14598540145986938,
+  "best_params": {
+    "alpha": 0.79,
+    "C": 10.0,
+    "class_weight": null,
+    "multi_kernel_beta": null
+  }
+}

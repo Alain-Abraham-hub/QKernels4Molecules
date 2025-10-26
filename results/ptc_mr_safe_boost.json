@@ -1,0 +1,14 @@
+{
+  "dataset": "PTC_MR",
+  "baseline": 0.5784873949579832,
+  "final_accuracy": 0.5994117647058823,
+  "final_accuracy_std": 0.06599506950146301,
+  "final_f1": 0.5510740020848716,
+  "improvement_percent": 2.092436974789913,
+  "best_params": {
+    "alpha": 0.0,
+    "C": 1.0,
+    "class_weight": null,
+    "multi_kernel_beta": null
+  }
+}
